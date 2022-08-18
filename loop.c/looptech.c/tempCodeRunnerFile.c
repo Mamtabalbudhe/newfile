@@ -1,0 +1,1 @@
+// 3) Read a no to check Armstrong or not
